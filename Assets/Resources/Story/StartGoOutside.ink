@@ -3,11 +3,11 @@ LIST chosenToLearnAtStart = howToDateGirl, howToGainMotivation, cuteCatsCompilat
 
 ===StartGoOutside ====
 ~lastVisitedKnot = "StartGoOutside"
-Unexpected #speakat:Top #chat::hide
+Unexpected #speakat:Top #chat::hide 
  
 
-Me #speakername:false #bgm:chill
-%You are sitting in home, browsing Fulltube #chat:top:hide #b:Top:hide #b:mid:homeDayDirty  #speakat:mid
+
+%You are sitting in home, browsing Fulltube #chat:top:hide #b:mid:homeDayDirty  #speakat:mid #bgm:chill
 
 -(recommendations)
 %Some recommendations popup

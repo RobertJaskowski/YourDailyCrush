@@ -1,10 +1,9 @@
 
 
 ==Prologue
-        Prologue #speakat:top 
+        Prologue 
         
-        Me #speakername:false #chat:top:hide #bgm:action
-        %You are trying your best to find a clue#speakat:mid #chat::show  #b:Mid:class  #b:Top:hide
+        %You are trying your best to find a clue #b:Mid:class
         
         %After a short while, you take a breath and lay on the desk
         {isTired():$I need to get up otherwise i will fall asleep because off last gaming night : $It is just probably end of this mystery, oh well... }

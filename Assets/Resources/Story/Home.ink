@@ -25,7 +25,7 @@ VAR canGoSleep = false
         
         {getShowerThought()}
         {I haven't thought about it before | That's something new...}
-        %You can share your shower thoughts here for others to see by sending them to Robert Jaskowski (developer)
+        %You can share your shower thoughts here for others to see by sending them through feedback
         
         ~canTakeShower=false
         ~hygiene = true
